@@ -1,0 +1,21 @@
+classification dataset
+_______________________
+https://www.kaggle.com/datasets/salviohexia/isic-2019-skin-lesion-images-for-classification?select=.ipynb_checkpoints
+
+__________________________________
+Machine learning approach in melanoma cancer stage detection
+_____________________________________
+
+https://www.sciencedirect.com/science/article/pii/S1319157820304572
+
+_____________________________________
+Weakly supervised detection and classification of basal cell carcinoma using graph-transformer on whole slide images
+
+_______________________________________
+
+https://www.nature.com/articles/s41598-023-33863-z
+
+
+https://datahub.aida.scilifelab.se/10.23698/aida/bccc  -> request
+
+___________________________________
